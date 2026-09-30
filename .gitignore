@@ -3,4 +3,5 @@
 *.out
 *.o
 *.obj
+output/
 .cph/
